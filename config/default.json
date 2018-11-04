@@ -1,0 +1,21 @@
+{
+  "ChatConfig": {
+    "db": {
+      "dbuser": "mydb",
+      "dbpassword": "xxxxx",
+      "dbhost": "192.168.0.33",
+      "dbname": "af_chat"
+    },
+    "Server": {
+      "port": 3012,
+      "urlbase": "http://mydomaincom",
+      "domain_root": "jgwill.com"
+    },
+    "Client": {
+      "chat_url_base": "http:/mydomainm:3012",
+      "af_url_base": "http://mydomain",
+      "api_url_api_base": "/api/chat",
+      "api_nc_path": "/nc"
+    }
+  }
+}
