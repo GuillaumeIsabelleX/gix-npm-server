@@ -8,11 +8,11 @@
     },
     "Server": {
       "port": 3012,
-      "urlbase": "http://mydomaincom",
-      "domain_root": "jgwill.com"
+      "urlbase": "http://mydomain",
+      "domain_root": "mydomain"
     },
     "Client": {
-      "chat_url_base": "http:/mydomainm:3012",
+      "chat_url_base": "http:/mydomain:3000",
       "af_url_base": "http://mydomain",
       "api_url_api_base": "/api/chat",
       "api_nc_path": "/nc"
